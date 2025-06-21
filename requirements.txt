@@ -1,0 +1,10 @@
+
+# The following requirements are for the Azure IPAM script.
+
+azure-identity
+azure-mgmt-network
+azure-mgmt-resource
+ipaddress
+pandas
+tqdm
+xlsxwriter
